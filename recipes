@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoastedToasted Recipes</title>
+    <link rel="shortcut icon" href="recipeimg/toasts.png" type="image/x-icon">
+    <link rel="stylesheet" href="recipestyle.css">
+</head>
+<body>
+    <div1>
+        <h1>Quick, Delicious Recipes for the Busy!</h1>
+        <p>We've all been there. Here are some flavour bombs to keep under your sleeve!</p>
+        <div4>
+            <img src="recipeimg/pasta.jpg" alt="Pasta with risotto and eggplant!">
+            <img src="recipeimg/shrimp.jpg" alt="Spicy shrimp on the skillet with broccoli!">
+            <img src="recipeimg/teriyaki salmon bowl.jpg" alt="Teriyaki salmon bowl!">
+        </div4>
+    </div1>
+
+    <div2>
+        <h1>Cozy desserts for Impressing the Guests!</h1>
+        <p>Sure, desserts may be last. But it doesn't have to be the least!!</p>
+        <div5>
+            <img src="recipeimg/fig ice cream.jpg" alt="Fig ice cream sundae.">
+            <img src="recipeimg/pumpkin tiramisu.jpg" alt="Pumpkin tiramisu!">
+            <img src="recipeimg/berry meringue nest.jpg" alt="Berry meringue nest!">
+        </div5>
+    </div2>
+
+    <div3>
+        <p><b>Author:</b> <i>@roastedtoasted</i> on Pinterest</p>
+    </div3>
+</body>
+</html>
